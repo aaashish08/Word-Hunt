@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-hunt-react/static/css/main.982427d9.css",
+    "main.js": "/word-hunt-react/static/js/main.9be5b926.js",
+    "index.html": "/word-hunt-react/index.html",
+    "main.982427d9.css.map": "/word-hunt-react/static/css/main.982427d9.css.map",
+    "main.9be5b926.js.map": "/word-hunt-react/static/js/main.9be5b926.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.982427d9.css",
+    "static/js/main.9be5b926.js"
+  ]
+}
